@@ -1,0 +1,6 @@
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\bin\Debug\PokerHandNet.Contract.dll
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\bin\Debug\PokerHandNet.Contract.pdb
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\obj\Debug\PokerHandNet.Contract.csproj.AssemblyReference.cache
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\obj\Debug\PokerHandNet.Contract.csproj.CoreCompileInputs.cache
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\obj\Debug\PokerHandNet.Contract.dll
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet.Contract\obj\Debug\PokerHandNet.Contract.pdb

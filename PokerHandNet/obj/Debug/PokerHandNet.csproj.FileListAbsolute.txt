@@ -1,0 +1,16 @@
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.exe.config
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.exe
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.pdb
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.Contract.dll
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.Machine.dll
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.Contract.pdb
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.Machine.pdb
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.csproj.AssemblyReference.cache
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.csproj.CoreCompileInputs.cache
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.csproj.CopyComplete
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.exe
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.pdb
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.exe.manifest
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\bin\Debug\PokerHandNet.application
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.exe.manifest
+C:\Users\S'bu\Desktop\Poker Test Project\PokerTest1\PokerHandNet\obj\Debug\PokerHandNet.application
